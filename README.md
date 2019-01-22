@@ -4,7 +4,7 @@ What is CAA?
 
 A Certification Authority Authorization (CAA) record is used to specify which certificate authorities (CAs) are allowed to issue certificates for a domain.
 
-The CAA record consists of a flags byte and a tag-value pair referred to as a ‘property’.
+The CAA record contains of a flags byte and a tag-value pair referred to as a ‘property’.
 
 The canonical representation is:
 
